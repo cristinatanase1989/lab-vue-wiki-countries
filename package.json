@@ -1,5 +1,5 @@
 {
-  "name": "lab-vue-wiki-countries",
+  "name": "04-lab-contries",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.0",
